@@ -1,0 +1,27 @@
+{
+  "name": "knock_servers",
+  "version": "1.0.0",
+  "description": "Servers implemented in different languages",
+  "main": "node/index.js",
+  "scripts": {
+    "start": "node node/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnWebb4/knock_servers.git"
+  },
+  "keywords": [
+    "Server",
+    "Knock"
+  ],
+  "author": "JohnWebb4",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnWebb4/knock_servers/issues"
+  },
+  "homepage": "https://github.com/JohnWebb4/knock_servers#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
